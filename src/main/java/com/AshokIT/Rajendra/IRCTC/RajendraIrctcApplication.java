@@ -8,9 +8,12 @@ public class RajendraIrctcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RajendraIrctcApplication.class, args);
+
 		
 		int i=10;
 		int j=20;
+		String s="Rajendra"
+
 	}
 
 }
