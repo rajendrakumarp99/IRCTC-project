@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.AshokIT</groupId>
 	<artifactId>Rajendra-IRCTC</artifactId>
-	<version>0.0.1-RELEASE</version>
+	<version>Rs.01</version>
 	<name>Rajendra-IRCTC</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
