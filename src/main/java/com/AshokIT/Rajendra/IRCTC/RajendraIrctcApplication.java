@@ -14,11 +14,16 @@ public class RajendraIrctcApplication {
 		int j=20;
 		String s="Rajendra"
 		
+<<<<<<< Updated upstream
 		public void m2(){
 			
 			
 		}
 
+=======
+		public void m1(){
+			
+>>>>>>> Stashed changes
 	}
 
 }
