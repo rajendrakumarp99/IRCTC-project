@@ -8,6 +8,9 @@ public class RajendraIrctcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RajendraIrctcApplication.class, args);
+
+
+		float f=1001.00f;
 	}
 
 }
