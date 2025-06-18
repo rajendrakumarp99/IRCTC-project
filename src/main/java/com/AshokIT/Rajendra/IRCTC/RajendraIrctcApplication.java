@@ -13,6 +13,11 @@ public class RajendraIrctcApplication {
 		int i=10;
 		int j=20;
 		String s="Rajendra"
+		
+		public void m2(){
+			
+			
+		}
 
 	}
 
